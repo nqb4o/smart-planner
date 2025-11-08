@@ -4,7 +4,7 @@ import streamlit as st
 import requests
 import uuid
 
-BASE_URL = "http://localhost:8000"
+BASE_URL = "https://travel-planner-backend-4t27.onrender.com"
 
 st.set_page_config(
     page_title="Ứng dụng Agentic AI Lập Kế Hoạch Du Lịch Thông Minh",
