@@ -11,3 +11,5 @@ wheels/
 .venv
 myenv/
 .env
+
+.idea/
